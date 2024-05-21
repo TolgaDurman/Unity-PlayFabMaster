@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc1b256ead78dbe4fb96970010e9e335
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <PlayFabSettings>k__BackingField: {fileID: 11400000, guid: 79de26bcb6193ce4e97bc922bb0fecd0,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
